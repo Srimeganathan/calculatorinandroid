@@ -1,11 +1,11 @@
-Ex.No:5 Develop a program to create a simple calculator using android studio.
-AIM:
+### Ex.No:5 Develop a program to create a simple calculator using android studio.
+# AIM:
 To Develop a program to create a simple calculator using android studio.
 
-EQUIPMENTS REQUIRED:
+# EQUIPMENTS REQUIRED:
 Android Studio(Min. required Artic Fox)
 
-ALGORITHM:
+# ALGORITHM:
 Initialize Project: Create a new Android Studio project using the Empty Views Activity template.
 
 Design Layout: Finish activity_main.xml ensuring unique IDs for your two inputs, result display, and four operator buttons.
@@ -20,7 +20,7 @@ Perform Calculation: Inside the logic method, convert inputs to numbers and use 
 
 7.Display Output: Update the tvResult TextView with the final answer or show an appropriate error message using Toast.
 
-PROGRAM:
+# PROGRAM:
 Activity.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -265,9 +265,9 @@ Styles.xml
 
 </resources>
 ```
-OUTPUT
+# OUTPUT
 
 <img width="239" height="533" alt="image" src="https://github.com/user-attachments/assets/b8304f05-961b-4f63-a5fd-1edf52e63761" />
 
-RESULT
+# RESULT
 Thus a Simple Android Application to create your own simple calculator using Android Studio is developed and executed successfully.
